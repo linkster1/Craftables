@@ -1,0 +1,15 @@
+CRAFT [saddle]
+air + air + air
+string + leather + string
+leather + air + leather
+= saddle
+
+COMBINE [name_tag]
+paper + string
+= name_tag
+
+CRAFT [dragon_egg]
+diamond_block + diamond_block + diamond_block
+diamond_block + golden_apple:1 + diamond_block
+diamond_block + diamond_block + diamond_block
+= dragon_egg

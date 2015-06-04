@@ -1,0 +1,5 @@
+CRAFT [lead]
+string + string + string
+string + air + string
+air + string + air
+= leash
