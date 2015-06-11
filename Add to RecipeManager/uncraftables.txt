@@ -1,7 +1,7 @@
 CRAFT [saddle]
-air + air + air
-string + leather + string
-leather + air + leather
+leather + leather + leather
+air + string + air
+air + iron_ingot + air
 = saddle
 
 COMBINE [name_tag]
